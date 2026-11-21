@@ -33,6 +33,10 @@ cd promptforge && ./start.sh
 
 Open `http://localhost:8080` and start crafting better prompts.
 
+## Agent Engineering Integration
+
+Prompt generation, prompt auditing, and evaluation generation now incorporate provider-neutral patterns for task classification, scope control, trust boundaries, action authorization, tool contracts, bounded delegation, evidence provenance, and observable evaluation criteria. See [Agent Engineering Integration](docs/AGENT_ENGINEERING_INTEGRATION.md) for implementation details and limitations.
+
 ## Core Features
 
 ### ✨ AI-Powered Prompt Generation
